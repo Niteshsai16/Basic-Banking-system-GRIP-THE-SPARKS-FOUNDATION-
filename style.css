@@ -1,0 +1,51 @@
+/* body{ 
+    background: url('../../../12.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+  } */
+  .nav-items .navbar-nav .active .nav-links {
+    color: #ff0000;
+  }
+  .panel{
+      margin-bottom: 20px;
+      background-color: #fff;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+  }
+  .panel-body {
+      padding: 15px;
+  }
+  button{
+    border-radius: 30px;
+  }
+  thead{
+      border-radius: 10px;
+      background-color: rgb(26, 122, 93);
+      color: white;
+  }
+  .tb{
+    background-color: rgb(255, 255, 255);
+  }
+  .close{
+     color:white;
+     font-size: 30px;
+  }
+  .modal-header{
+    background-color: rgb(166, 231, 62);
+    color: #FFF;
+  }
+  .modal-body{
+      background-color: rgb(127, 204, 218);
+  }
+  .name{
+      text-decoration: none;
+      color: darkred;
+      text-transform: uppercase;
+  }
+  
+ 
+ 
+  
